@@ -17,3 +17,9 @@ Las entrevistas permiten obtener información de tipo cualitativo. Sin embargo, 
 
 Diseño
 Para el diseño se hará en grupo un brainstorming y de las ideas resultantes se seleccionará la mejor.
+
+
+
+https://www.exabyteinformatica.com/uoc/Informatica/Interaccion_persona_ordenador/Interaccion_persona_ordenador_(Modulo_3).pdf
+
+
