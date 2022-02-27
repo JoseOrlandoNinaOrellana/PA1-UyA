@@ -8,16 +8,15 @@ Las tareas que se llevarán a cabo en la fase de investigación son la siguiente
 - Análisis competitivo (Benchmarking)
 
 
-* **Encuestas**:
+### **Encuestas**:
   - Se trata de una herramienta cuantitativa en la que una muestra de usuarios responden a un formulario cuyas respuestas serán objeto de estudio.
   - Es muy importante diseñar correctamente las encuestas ya que el mal planteamiento generan unos resultados que no son de utilidad para el proyecto.
  
     * Por esto se hará una encuesta preliminar con una muestra pequeña para observar si esta genera resultados acordes, de ser el caso, se procederá con una encuesta más amplia sobre la funcionalidad que creen necesaria y del enfoque de la página.
  
 
-* **Entrevistas en grupo**
+* **Entrevistas en grupo**:
  Las entrevistas en grupo permiten recoger más diversidad en las opiniones pero con menos profundidad en comparación a las entrevistas individuales. La opinión de un participante del grupo se puede ver limitada o cambiada por el efecto del grupo.
- 
  Se crearán grupos de 10 a 12 personas y se les preguntará de forma abierta una serie de preguntas de carácter general y se debatirá los distintos puntos que tiene cada participante del grupo. Así se dispondrá una tabla inicial donde comenzar a trabajar.
  
  
