@@ -13,14 +13,12 @@
 >>  ASIGNATURA:  Usabilidad y Accesibilidad
 >>  VERSION:     0.0.2
 >>  FECHA:       02-03-2022
->>  GITHUB:     https://github.com/JoseOrlandoNinaOrellana/PA1-UyA.git
+>>  GITHUB:      https://github.com/JoseOrlandoNinaOrellana/PA1-UyA.git
 ```
 
 
 - [Apartado 1](https://github.com/JoseOrlandoNinaOrellana/PA1-UyA/blob/main/DCU.md#analisis-de-las-etapas-del-dcu-en-el-desarrollo-de-un-sitio-web-de-una-biblioteca-universitaria)
 
 - [Apartado 2](https://github.com/JoseOrlandoNinaOrellana/PA1-UyA/blob/main/DCU.md#aplicacion-del-dcu-para-realizar-el-prototipo-de-una-aplicacion-web)
-    - [Encuestas](https://github.com/JoseOrlandoNinaOrellana/PA1-UyA/blob/main/DCU.md#encuestas)
-    - [Entrevistas en grupo](https://github.com/JoseOrlandoNinaOrellana/PA1-UyA/blob/main/DCU.md#entrevistas-en-grupo)
-    - [Entrevistas en profundidad](https://github.com/JoseOrlandoNinaOrellana/PA1-UyA/blob/main/DCU.md#entrevistas-en-profundidad)
-    - [Análisis competitivo (Benchmarking)](https://github.com/JoseOrlandoNinaOrellana/PA1-UyA/blob/main/DCU.md#an%C3%A1lisis-competitivo-benchmarking)
+    - [Investigación](https://github.com/JoseOrlandoNinaOrellana/PA1-UyA/blob/main/DCU.md#investigaci%C3%B3n)
+    - [Diseño](https://github.com/JoseOrlandoNinaOrellana/PA1-UyA/blob/main/DCU.md#dise%C3%B1o)
