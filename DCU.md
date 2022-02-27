@@ -18,6 +18,7 @@ Las tareas que se llevarán a cabo en la fase de investigación son la siguiente
 ### **Entrevistas en grupo**:
 
  Las entrevistas en grupo permiten recoger más diversidad en las opiniones pero con menos profundidad en comparación a las entrevistas individuales. La opinión de un participante del grupo se puede ver limitada o cambiada por el efecto del grupo.
+ 
  * Se crearán grupos de 10 a 12 personas y se les preguntará de forma abierta una serie de preguntas de carácter general y se debatirá los distintos puntos que tiene cada participante del grupo. Así se dispondrá una tabla inicial donde comenzar a trabajar.
  
  
@@ -28,16 +29,17 @@ Las tareas que se llevarán a cabo en la fase de investigación son la siguiente
 
 
 ### **Análisis competitivo (Benchmarking)**: 
- El análisis competitivo consiste en analizar productos que son similares o que compiten con el sistema interactivo que se está diseñando. En nuestro caso, realizamos el análisis competitivo para :
-  - Conocer las expectativas de los usuarios
-  - Mejorar las interfaces usuarios de la aplicación web
-  - Entender las tendencias del mercado (fase inicial)
-  - Conocer las funcionalidades básicas o comunes.
-  - Evitar los errores invisibles
+ El análisis competitivo consiste en analizar productos que son similares o que compiten con el sistema interactivo que se está diseñando. En nuestro caso, realizamos el análisis competitivo para:
+ - Conocer las expectativas de los usuarios
+ - Mejorar las interfaces usuarios de la aplicación web
+ - Entender las tendencias del mercado (fase inicial)
+ - Conocer las funcionalidades básicas o comunes.
+ - Evitar los errores invisibles
 
  Esta técnica se puede aplicar en todas las etapas de diseño en nuestro proyecto del desarrollo de aplicación web. En la fase inicial, para conocer mejorar a los usuarios y sus expectativas, las tendencias del mercado sobre aplicación web, conocer las funcionalidades básicas o comunes y las que no valoran los usuarios de otra aplicación web. Durante la fase de diseño se toma la referencia de otra aplicación web para mejorar las interfaces usuarios o el diseño de la interacción de funcionalidades, arquitectura de información, visualización de los distintos elementos. Y en la fase final, el análisis competitivo se puede utilizar para evitar los errores invisibles.
 
  * Antes de iniciar nuestro proyecto, haremos un análisis comparativo para tener una idea genérica. También lo usaremos en todas las etapas de nuestro proyecto repetitivamente para mejorar las funcionalidades específicas.
+
 
 
 ## Diseño
@@ -66,29 +68,3 @@ Para el diseño se hará en grupo un brainstorming
 
 
 **BrainStorming**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://www.exabyteinformatica.com/uoc/Informatica/Interaccion_persona_ordenador/Interaccion_persona_ordenador_(Modulo_3).pdf
-
-
